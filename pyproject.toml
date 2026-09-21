@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dft-photocatalysis"
+version = "0.1.0"
+description = "Quantum Electronic Structure Calculations + Physics-Informed ML for Photocatalysis"
+authors = [{ name = "Maria Aziz" }]
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.22",
+    "pandas>=1.4",
+    "scipy>=1.8",
+    "scikit-learn>=1.1",
+    "xgboost>=1.6",
+    "shap>=0.41",
+    "matplotlib>=3.5",
+    "seaborn>=0.11",
+    "tabulate>=0.8.9",
+    "ase>=3.22"
+]

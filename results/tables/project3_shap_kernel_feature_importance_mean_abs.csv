@@ -1,0 +1,17 @@
+feature,mean_abs_shap
+reaction_time_min,8.49903653320217
+light_intensity_mwcm2,4.093796472427076
+catalyst_dosage_gl,3.2388499331458696
+bandgap_ev,3.0662329958579786
+surface_area_m2g,1.3486596719702888
+ph,0.8647287904571223
+initial_dye_conc_mgl,0.6279979974914288
+temperature_c,0.37418542908566105
+dye_molecular_weight,0.18872246622690045
+dft_homo_ev,0.15648131650360972
+dft_bandgap_ev,0.08933692812040787
+dft_hardness_ev,0.01418707852083079
+dft_lumo_ev,0.013849591515851686
+dft_fermi_ev,0.00485537967898769
+dft_electronegativity_ev,0.004056524288243927
+dft_dipole_debye,0.0

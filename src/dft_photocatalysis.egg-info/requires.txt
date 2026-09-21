@@ -1,0 +1,10 @@
+numpy>=1.22
+pandas>=1.4
+scipy>=1.8
+scikit-learn>=1.1
+xgboost>=1.6
+shap>=0.41
+matplotlib>=3.5
+seaborn>=0.11
+tabulate>=0.8.9
+ase>=3.22

@@ -1,0 +1,5 @@
+Model,Empirical_R2,Hybrid_R2,Empirical_RMSE,Hybrid_RMSE,R2_Improvement_%
+Ridge,0.4303,0.4309,14.0056,14.0101,0.13
+RandomForest,0.7653,0.7662,8.992,8.9814,0.12
+XGBoost,0.8011,0.8046,8.2489,8.1804,0.43
+MLP,0.4877,0.4603,13.3001,13.6334,-5.61

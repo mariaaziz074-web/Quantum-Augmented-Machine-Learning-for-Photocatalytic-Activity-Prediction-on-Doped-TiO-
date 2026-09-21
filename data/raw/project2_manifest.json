@@ -1,0 +1,10 @@
+{
+  "source_repo": "https://github.com/mariaaziz074-web/photocatalysis-research-benchmark",
+  "commit": "00cb5f73612b1530a4ea6b737e7891c959768895",
+  "copied": [
+    "C:\\Users\\Asad\\OneDrive\\Desktop\\Github Projcts\\dft-photocatalysis\\data\\raw\\benchmark_results.csv",
+    "C:\\Users\\Asad\\OneDrive\\Desktop\\Github Projcts\\dft-photocatalysis\\data\\raw\\catalyst_distribution.csv",
+    "C:\\Users\\Asad\\OneDrive\\Desktop\\Github Projcts\\dft-photocatalysis\\data\\raw\\dye_distribution.csv",
+    "C:\\Users\\Asad\\OneDrive\\Desktop\\Github Projcts\\dft-photocatalysis\\data\\raw\\dataset_summary_statistics.csv"
+  ]
+}
