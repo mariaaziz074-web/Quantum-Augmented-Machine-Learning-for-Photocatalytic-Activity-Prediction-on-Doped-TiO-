@@ -26,22 +26,23 @@ Traditional empirical models fail to capture quantum-mechanical electronic effec
 
 ## 📁 Repository Structure
 
+```text
 dft-photocatalysis/
 ├── data/
-│   ├── raw/                 # Experimental degradation rate benchmarks
-│   └── structures/          # 13 XYZ atomistic structure files for TiO2 systems
-├── src/
-│   ├── features/            # Quantum descriptor extractors & feature pipelines
-│   └── models/              # Hybrid physics-informed ML architectures
-├── scripts/
-│   ├── 01_fetch_project2_data.py
-│   ├── 02_install_xtb_engine.py
-│   ├── 08_generate_project3_publication_figures_strong_palette.py
-│   ├── 09_generate_project3_shap_figures_kernel_safe.py
-│   └── 11_generate_tio2_structures_panel.py
+│   ├── external/
+│   ├── raw/
+│   ├── processed/
+│   └── structures/
 ├── results/
-│   ├── figures/             # High-resolution (600 DPI) publication figures & PDFs
-│   │   └── tio2_structure_renders/  # Individual 3D structure renders
+│   ├── figures/
+│   │   └── tio2_structure_renders/
+│   └── tables/
+├── scripts/
+├── src/
+├── run_project3_pipeline.py
+├── pyproject.toml
+├── .gitignore
+└── README.md
 │   └── tables/              # Model benchmark tables & error metrics
 ├── run_project3_pipeline.py # End-to-end master execution pipeline
 ├── pyproject.toml           # Project dependencies and packaging metadata
